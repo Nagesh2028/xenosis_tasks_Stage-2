@@ -1,0 +1,62 @@
+[
+    {
+        "Country": "India",
+        "Gender": "M",
+        "Age": 22,
+        "Name": "Nagesh"
+    },
+    {
+        "Country": "India",
+        "Gender": "M",
+        "Age": 20,
+        "Name": "Santhosh"
+    },
+    {
+        "Country": "India",
+        "Gender": "M",
+        "Age": 25,
+        "Name": "Hanuma"
+    },
+    {
+        "Country": "India",
+        "Gender": "M",
+        "Age": 24,
+        "Name": "Gireesh"
+    },
+    {
+        "Country": "India",
+        "Gender": "M",
+        "Age": 32,
+        "Name": "Satish"
+    },
+    {
+        "Country": "India",
+        "Gender": "M",
+        "Age": 24,
+        "Name": "Kamsai"
+    },
+    {
+        "Country": "India",
+        "Gender": "M",
+        "Age": 23,
+        "Name": "Vasu"
+    },
+    {
+        "Country": "India",
+        "Gender": "F",
+        "Age": 24,
+        "Name": "Durga"
+    },
+    {
+        "Country": "India",
+        "Gender": "F",
+        "Age": 20,
+        "Name": "Sweety"
+    },
+    {
+        "Country": "India",
+        "Gender": "F",
+        "Age": 21,
+        "Name": "Madhavi"
+    }
+]
